@@ -1,0 +1,7 @@
+I2C - Inter Integrated Circuit.
+
+Follow the below link to download the user manual for LPC 1758.
+
+http://www.nxp.com/documents/user_manual/UM10360.pdf
+
+Once downloaded, read chapter 19 on I2C. Follow the state diagrams I have created for writing the drivers.
